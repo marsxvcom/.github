@@ -1,2 +1,6 @@
 # About `mars-xv.com`
-Establish an environment that optimizes human potential in the fields of science and technology, aiming to achieve groundbreaking inventions and innovations that transform the world.
+Find a path to Mars...
+
+Just kidding! We are a team enthusiastic about building compact, bug-free, and energy-efficient IT products.
+
+Visit our website: https://mars-xv.com/
