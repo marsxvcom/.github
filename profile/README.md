@@ -1,4 +1,4 @@
-# About `mars-xv.com`
+# About `MARSxv`
 Find a path to Mars...
 
 Just kidding! We are a team enthusiastic about building compact, bug-free, and energy-efficient IT products.
