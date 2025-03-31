@@ -1,6 +1,6 @@
 # About `MARSxv`
-Find a path to Mars...
+"Find a path to Mars".
 
-Just kidding! We are a team enthusiastic about building compact, bug-free, and energy-efficient IT products.
+We are a team enthusiastic about building compact, bug-free, and energy-efficient technology products.
 
 Visit our website: https://mars-xv.com/
