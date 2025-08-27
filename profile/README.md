@@ -1,6 +1,6 @@
 # About `MARSv`
-"Find a path to Mars".
+"Find a Path to Mars".
 
-We are a team enthusiastic about building compact, bug-free, and energy-efficient technology products.
+Our mission is to elevate human civilization through continuous innovation and technological advancements.
 
 Visit our website: https://marsv.org/
